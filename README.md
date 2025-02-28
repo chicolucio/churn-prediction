@@ -49,14 +49,14 @@ adjustment, and preprocessing, has the following metrics:
 
 | Metric             | Score    | Std Dev  |
 |--------------------|----------|----------|
-| Accuracy           | 0.752234 | 0.007329 |
-| Balanced Accuracy  | 0.766082 | 0.009746 |
-| F1                 | 0.630180 | 0.011178 |
-| Precision          | 0.521791 | 0.009259 |
-| Recall             | 0.795597 | 0.018686 |
-| ROC AUC            | 0.846659 | 0.012375 |
-| Average Precision  | 0.658425 | 0.020138 |
-| F1 Weighted        | 0.764995 | 0.006898 |
+| Accuracy           | 0.752 | 0.007 |
+| Balanced Accuracy  | 0.766 | 0.009 |
+| F1                 | 0.63 | 0.01 |
+| Precision          | 0.521 | 0.009 |
+| Recall             | 0.79 | 0.02 |
+| ROC AUC            | 0.85 | 0.01 |
+| Average Precision  | 0.66 | 0.02 |
+| F1 Weighted        | 0.764 | 0.006 |
 
 
 ## Installation
